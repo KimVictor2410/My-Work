@@ -1,0 +1,28 @@
+/* montserrat */
+@font-face{
+  font-family: 'montserrat';
+  src: url('../fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'montserrat';
+  src: url('../fonts/montserrat/Montserrat-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+@font-face{
+  font-family: 'montserrat';
+  src: url('../fonts/montserrat/Montserrat-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+/* trebuchetms */
+@font-face{
+  font-family: 'trebuchetms';
+  src: url('../fonts/trebuchetms/TrebuchetMS-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+/* icons */
+@font-face{
+  font-family: 'icons';
+  src: url('../fonts/icons/fa-light-300.ttf') format('truetype');
+  font-weight: 300;
+}
